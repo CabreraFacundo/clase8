@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1537491303 source:/home/alumno/Escritorio/Producto/parcial1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"parcial.h"
+	"utn.h"
+
+1537491563 /home/alumno/Escritorio/Producto/parcial1/parcial.h
+
+1537484728 /home/alumno/Escritorio/Producto/parcial1/utn.h
+
+1537483923 source:/home/alumno/Escritorio/Producto/parcial1/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1537491439 source:/home/alumno/Escritorio/Producto/parcial1/parcial.c
+	<stdio.h>
+	<stdlib.h>
+	"parcial.h"
+	"utn.h"
+

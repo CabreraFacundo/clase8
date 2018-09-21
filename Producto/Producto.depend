@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537406021 source:/home/alumno/Escritorio/Producto/Producto/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"producto.h"
+
+1537406093 /home/alumno/Escritorio/Producto/Producto/producto.h
+
+1537405950 source:/home/alumno/Escritorio/Producto/Producto/producto.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+
