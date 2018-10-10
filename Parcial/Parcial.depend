@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1538697228 source:/home/alumno/Descargas/tp_laboratorio_1-master/Parcial/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"cliente.h"
+	"ventas.h"
+	<stdio_ext.h>
+
+1538696177 /home/alumno/Descargas/tp_laboratorio_1-master/Parcial/utn.h
+
+1538694826 /home/alumno/Descargas/tp_laboratorio_1-master/Parcial/cliente.h
+
+1538703575 /home/alumno/Descargas/tp_laboratorio_1-master/Parcial/ventas.h
+
+1538701313 source:/home/alumno/Descargas/tp_laboratorio_1-master/Parcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"cliente.h"
+	"ventas.h"
+	<stdio_ext.h>
+
+1538696911 source:/home/alumno/Descargas/tp_laboratorio_1-master/Parcial/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	<stdio_ext.h>
+
+1538701181 source:/home/alumno/Descargas/tp_laboratorio_1-master/Parcial/ventas.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"cliente.h"
+	"ventas.h"
+	<stdio_ext.h>
+
+1539194858 source:c:\users\facu\desktop\utn\parcial\parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"cliente.h"
+	"ventas.h"
+
+1538689270 c:\users\facu\desktop\utn\parcial\parcial\utn.h
+
+1539193835 c:\users\facu\desktop\utn\parcial\parcial\cliente.h
+	"ventas.h"
+
+1539195157 c:\users\facu\desktop\utn\parcial\parcial\ventas.h
+	"cliente.h"
+	"ventas.h"
+
+1539193897 source:c:\users\facu\desktop\utn\parcial\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"cliente.h"
+	"ventas.h"
+
+1539192452 source:c:\users\facu\desktop\utn\parcial\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1539195441 source:c:\users\facu\desktop\utn\parcial\parcial\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"cliente.h"
+	"ventas.h"
+
